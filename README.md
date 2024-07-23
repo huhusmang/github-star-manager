@@ -77,11 +77,3 @@ python star_manager.py
 ## 贡献
 
 欢迎贡献、问题和功能请求。如果你想贡献，请查看[问题页面](https://github.com/你的用户名/github-star-manager/issues)。
-
-## 许可证
-
-[MIT许可证](https://opensource.org/licenses/MIT)
-
-## 联系
-
-如果你有任何问题或反馈，请联系[你的名字](https://github.com/huhusmang)。

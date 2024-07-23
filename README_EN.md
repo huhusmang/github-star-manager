@@ -72,11 +72,3 @@ This script requires a GitHub personal access token. Never share your token or c
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/huhusmang/github-star-manager/issues) if you want to contribute.
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
-
-## Contact
-
-If you have any questions or feedback, please reach out to [Your Name](https://github.com/huhusmang).
